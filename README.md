@@ -1,2 +1,2 @@
 # Jira
-simulate Jira
+simulate Jira with React and TS
