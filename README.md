@@ -1,8 +1,5 @@
-Use custom hooks, CSS in JS, Antd, TS to mock Jira
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GUse custom hooks, CSS in JS, Antd, TS to mock Jira
 
 ## Available Scripts
 
