@@ -1,5 +1,5 @@
 
-# GUse custom hooks, CSS in JS, Antd, TS to mock Jira
+# Use custom hooks, CSS in JS, Antd, TS to mock Jira
 
 ## Available Scripts
 
